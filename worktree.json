@@ -1,0 +1,102 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1418,
+    "time": 1751969836,
+    "hash": "42e28f8b2101612b9ac1363fa9882ebb30026032"
+  },
+  ".hoa/worktree.json": {
+    "size": 2776,
+    "time": 1751898345,
+    "hash": "ea6ea58ee4f7cde68059aceb53bc8db8a7679361"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1729687322,
+    "hash": "34e1107496be8b29ebbe9de5621eecf95226c0cb"
+  },
+  "README.md": {
+    "size": 1374,
+    "time": 1735466272,
+    "hash": "b391be259345b1802e0c086bfbb1a475e2f4dab7"
+  },
+  "assignments/2024-wjd-作业1.pdf": {
+    "size": 438248,
+    "time": 1737237011,
+    "hash": "4eaed2e47a48b2f1ab22df4e5ea661235f25ed98"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1729687322,
+    "hash": "34e1107496be8b29ebbe9de5621eecf95226c0cb"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1729687322,
+    "hash": "34e1107496be8b29ebbe9de5621eecf95226c0cb"
+  },
+  "labs/2024/2024-ljh/210320111-吕家昊.docx": {
+    "size": 392184,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-ljh/实验1/main.m": {
+    "size": 2894,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-ljh/实验1/pure_pursuit_control.m": {
+    "size": 1609,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-ljh/实验2/AStarGrid.m": {
+    "size": 4941,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-ljh/实验2/DijkstraGrid.m": {
+    "size": 4896,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-ljh/实验2/main.m": {
+    "size": 2681,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-wjd/2024-wjd.pdf": {
+    "size": 943158,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-wjd/PGM2png.py": {
+    "size": 235,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-wjd/eai_map_imu.pgm": {
+    "size": 262200,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/2024-wjd/流程图.md": {
+    "size": 814,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "labs/2024/移动机器人导论实验任务.zip": {
+    "size": 5354307,
+    "time": 1737246742,
+    "hash": "edfc6a4673d3c305fbb82dba161e9cb9a45236e7"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1729687322,
+    "hash": "34e1107496be8b29ebbe9de5621eecf95226c0cb"
+  },
+  "tag.txt": {
+    "size": 107,
+    "time": 1730014355,
+    "hash": "2da209af1effdf9a11cbd4aa1fad273d7b369216"
+  }
+}
