@@ -11,6 +11,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 李芃
   <!-- TOML-ITEM: id="review-李芃-1" -->
   - 授课风格：念 PPT。时有一些板书和扩展。

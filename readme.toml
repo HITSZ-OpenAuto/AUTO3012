@@ -1,16 +1,16 @@
 course_name = "移动机器人导论"
-repo_type = "normal"
 course_code = "AUTO3012"
-
+repo_type = "normal"
 description = "课程覆盖感知、规划、控制等多方面内容，比较基础。PPT 观感不佳，稍显混乱，可听老师讲解。概念比较多，但最后不考试，无需死记硬背。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "李芃"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "授课风格：念 PPT。时有一些板书和扩展。"
 author = { name = "Oliver Wu", link = "https://www.github.com/OliverWu515", date = "2024-11" }
-
 
 [[sections]]
 title = "课程内容"
