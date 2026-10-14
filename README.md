@@ -1,11 +1,5 @@
 # AUTO3012 - 移动机器人导论
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
-![实验报告40%](https://img.shields.io/badge/实验报告-40%25-wheat)
 
 课程覆盖感知、规划、控制等多方面内容，比较基础。PPT 观感不佳，稍显混乱，可听老师讲解。概念比较多，但最后不考试，无需死记硬背。
 
